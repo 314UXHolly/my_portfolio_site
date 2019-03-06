@@ -1,0 +1,44 @@
+:root { 
+  background: mintcream;
+}
+
+body {
+  background-color: mintcream;
+}
+
+h1 {
+  color: black;
+  margin-right: 20px;
+  margin-left: 20px;
+  padding-bottom: 0px;
+  background-color:mintcream;
+}
+
+h2 {
+  color: gray;
+  margin-right: 20px;
+  margin-left: 20px;
+  padding-bottom: 0px;
+  background-color:mintcream;
+}
+
+div {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color:mintcream;
+}
+
+img {
+  padding: 5px;
+  width: 500px;
+  height: auto;
+  margin-left: 20px;
+}
+
+a:active { 
+  background-color: whitesmoke;
+}
+
+a:visited { 
+  color: pink;
+}

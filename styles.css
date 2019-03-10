@@ -1,9 +1,13 @@
-:root { 
+:root {
   background: mintcream;
 }
 
 body {
   background-color: mintcream;
+}
+
+a:visited {
+  color: whitesmoke;
 }
 
 h1 {
@@ -35,10 +39,44 @@ img {
   margin-left: 20px;
 }
 
-a:active { 
+a:active {
   background-color: whitesmoke;
 }
 
-a:visited { 
-  color: pink;
-}
+    p.a{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    margin-left: 20px;
+    background-color: mintcream;
+        }
+
+    h1.b{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 24px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    background-color: mintcream;
+        }
+
+    h2.c{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    background-color: mintcream;
+        }
+
+    ul.d{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    background-color: mintcream;
+        }
+
+    li.e{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    background-color: mintcream;

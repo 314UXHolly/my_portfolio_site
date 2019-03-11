@@ -4,28 +4,33 @@
 
 body {
   background-color: mintcream;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: black
 }
 
 a:visited {
-  color: whitesmoke;
+  color: gray;
 }
-
-h1 {
-  color: black;
-  margin-right: 20px;
-  margin-left: 20px;
-  padding-bottom: 0px;
-  background-color:mintcream;
+a.customvisited:visited {
+  color: whitesmoke;
 }
 
 h2 {
   color: gray;
-  margin-right: 20px;
-  margin-left: 20px;
+  padding-right: 20px;
+  padding-left: 20px;
   padding-bottom: 0px;
-  background-color:mintcream;
 }
 
+h3 {
+  color: black;
+  font-size: 14px;
+  font-weight: bold;
+  margin-left: 20px;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-bottom: 0px;
+}
 div {
   margin-top: 20px;
   margin-bottom: 20px;
@@ -80,3 +85,8 @@ a:active {
     margin-left: 20px;
     margin-bottom: 10px;
     background-color: mintcream;
+}
+
+    nav{
+    margin-bottom: 20px;
+    }
